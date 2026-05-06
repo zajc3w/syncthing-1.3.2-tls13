@@ -9,7 +9,7 @@
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/88/badge)](https://bestpractices.coreinfrastructure.org/projects/88)
 [![Go Report Card](https://goreportcard.com/badge/github.com/syncthing/syncthing)](https://goreportcard.com/report/github.com/syncthing/syncthing)
 
-## Goals
+## Goals: Provide Syncthing for my ancient windows XP laptops used for "vintage" computing.
 
 Syncthing is a **continuous file synchronization program**. It synchronizes
 files between two or more computers. We strive to fulfill the goals below.
